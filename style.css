@@ -1,0 +1,23 @@
+.heading
+{
+    font-size: 23px;
+    width: 99%;
+    margin: 0px;
+}
+
+
+.note
+{
+    font-size: 25px;
+    color: antiquewhite;
+}
+
+.button
+{
+    font-size: 25px;
+    color: aqua ;
+}
+
+body{
+    background-size:cover;
+}
